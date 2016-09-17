@@ -1,0 +1,10 @@
+{
+    "name": "visualweber/viweb-ckfinder",
+    "description": "",
+    "keywords": ["CKFinder 2.3 4"],
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
